@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/developers"
+        android:title="Developers"/>
+    <item android:id="@+id/testers"
+        android:title="Testers"/>
+    <item android:id="@+id/intern"
+        android:title="Intern"/>
+    <item android:id="@+id/blogs"
+        android:title="Blogs"/>
+    <item android:id="@+id/feedback"
+        android:title="Feedback"/>
+    <item android:id="@+id/details"
+        android:title="Details"/>
+    <!--<item android:id="@+id/nav_offers"
+        android:title="Offers and Free Rides"/>
+    <item android:id="@+id/nav_support"
+        android:title="Support"/>
+    <item android:id="@+id/about"
+        android:title="About"/>-->
+</menu>
